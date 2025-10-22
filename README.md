@@ -36,7 +36,7 @@ O formulário apresenta um **layout limpo e centralizado**, com o título e os c
 - Também dá pra mudar o tema do Bootstrap para adaptar as cores ao seu estilo.
 
 ## 👨‍💻 Autor
-**Samuel Oliveira**
-**Maira Jaciele**
-**Jean Lins**
+-**Samuel Oliveira**
+-**Maira Jaciele**
+-**Jean Lins**
 Projeto desenvolvido para fins de estudo em **HTML + Bootstrap**.
